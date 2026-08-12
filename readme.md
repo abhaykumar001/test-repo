@@ -1,4 +1,3 @@
-Here is a template for a hilarious, self-deprecating GitHub profile `README.md` that perfectly captures the beautiful chaos of full-stack development.
 
 ---
 
