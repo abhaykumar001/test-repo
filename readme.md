@@ -3,7 +3,7 @@
 
 # Hi, I'm Abhay 👋 (And Yes, My Code Works... Mostly)
 
-Welcome to my GitHub! I'm a Full Stack Developer currently surviving on coffee, Stack Overflow, and the sheer willpower required to keep PM2 processes running without crashing. I've been doing this professionally for about six months, which means I know exactly enough to be dangerous to production environments.
+Welcome to my GitHub! I'm a Full Stack Developer currently surviving on coffee, Stack Overflow, and the sheer willpower required to keep PM2 processes running without crashing. I've been doing this professionally for about six months, which means I know exactly enough to be dangerous to production environments. new
 
 ### 🛠️ The Tech Stack of Chaos
 
